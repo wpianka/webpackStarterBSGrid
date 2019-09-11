@@ -16,15 +16,14 @@ html {
   box-sizing: inherit;
 }
 
-@import "tools/functions";
-@import "tools/variables";
+@import "functions";
+@import "variables";
 
-@import "tools/mixins/breakpoints";
-@import "tools/mixins/grid-framework";
-@import "tools/mixins/grid";
+@import "mixins/breakpoints";
+@import "mixins/grid-framework";
+@import "mixins/grid";
 
 @import "grid";
-@import "generic/utilities/display";
-@import "generic/utilities/flex";
-@import "generic/utilities/spacing";
-
+@import "utilities/display";
+@import "utilities/flex";
+@import "utilities/spacing";
