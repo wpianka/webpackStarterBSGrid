@@ -1,4 +1,4 @@
-# Webpack 4 frontend StarterKit
+# Webpack 4 frontend StarterKit with Bootstrap 4 - Grid
  Configuration of Webpack 4
  
  ### Installation
